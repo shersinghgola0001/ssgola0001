@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Shersingh Gola
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Web designing.
-- 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me mail me @ ssgola0001@gmail.com OR ring me @ +919315383547.
-
-<!---
-ssgola0001/ssgola0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+As a new web designer, I'm anxious to apply my abilities and information for a constructive outcome in the business. Through training and personal projects, I have completed my formal education in web development and gained practical experience. My specialized ability remembers capability for HTML, CSS, and JavaScript. I have also worked with databases like MySQL and currently working to be a full-Stack developer.I am always looking for opportunities to broaden my skill set and have a burning desire to remain updated on the most recent technologies and trends in my sector. I have strong problem-solving skills, am self-motivated, and am able to work well in a team setting. As a web engineer, I want to make easy-to-use, responsive, and outwardly engaging sites that address the issues of clients and end clients. I'm excited to work on innovative and effective web solutions with like-minded people and organizations. I am actively looking for opportunities to contribute my skills and develop professionally at dynamic organizations. Connect with me on LinkedIn if you are interested in learning more about my experience and background.
